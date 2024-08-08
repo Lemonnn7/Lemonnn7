@@ -11,9 +11,9 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
-<strong>Hi, I am Volcano-Yang!👋 </strong>
+<strong>Hi, I am Lemonnn7!👋 </strong>
 
-<strong>A full stack developer from China🇨🇳. </strong>
+<strong>A full stack developer and NLP lover from China🇨🇳. </strong>
 
 </pre> 
 
@@ -27,8 +27,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:h1377122286@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-h1377122286@gmail.com-blue?style=flat-square&logo=gmail"></a>
