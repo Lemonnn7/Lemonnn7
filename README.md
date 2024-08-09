@@ -23,6 +23,9 @@
 
 
 ### 🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![Next.JS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=Next.JS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
